@@ -3459,7 +3459,7 @@ figure>img {
 .post-option.active,
 .post-option:hover {
     background-color: #fff;
-    box-shadow: 3px 5px 20px 0 rgba(94, 92, 154, .1)
+    box-shadow: inset -6px 11px 20px 9px rgba(94, 92, 154, .1);
 }
 
 .post-option.active .post-option-icon,
@@ -14527,3 +14527,8 @@ figure>img {
 }
 
 /*# sourceMappingURL=styles.min.css.map */
+.LogoFont{
+    font-weight: bold;
+    font-size: 22px;
+    color: #fff;
+}
